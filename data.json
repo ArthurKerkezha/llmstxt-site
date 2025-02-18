@@ -913,9 +913,6 @@
     {
         "product": "Blog Pics.io",
         "website": "https://blog.pics.io/",
-        "llms-full-txt": "",
-        "llms-full-txt-tokens": "",
-        "llms-txt": "https://blog.pics.io/static/llms.txt",
-        "llms-txt-tokens": ""
+        "llms-txt": "https://blog.pics.io/static/llms.txt"
     }
 ]
